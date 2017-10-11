@@ -59,7 +59,7 @@ function startExpress() {
     var app = express();
 
     app.engine('hbs', hbs.express3({
-        partialsDir: __dirname + '/views/partials',
+//        partialsDir: __dirname + '/views/partials',
         contentHelperName: 'content'
     }));
     app.set('port', process.env.PORT || 3000);

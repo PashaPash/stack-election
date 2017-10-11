@@ -14,7 +14,7 @@
         "xmlhttprequest": "https://github.com/tms/node-XMLHttpRequest/tarball/updates",
         "deferred": "0.6.4",
         "sax": "0.3.x",
-        "jsdom": "0.6.x"
+        "jsdom": "4.0.2"
     },
     "engine": {
         "node": ">=0.6"
